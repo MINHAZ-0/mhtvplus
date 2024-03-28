@@ -1,6 +1,6 @@
 var vgsPlayer, poster;
 vgsPlayer = videojs("vid1");
-vgsPlayer.poster("https://www.appcreator24.com/srv/imgs/gen/2458024_ico.png?v=9");
+vgsPlayer.poster("");
 
 /********* LOAD URL *********/
 $("#vidlink li a").on("click", function (e) {
