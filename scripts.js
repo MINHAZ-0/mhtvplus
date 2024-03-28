@@ -46,7 +46,7 @@ function vsgLoadVideo(vidURL, poster) {
     type: type,
   });
   if (poster) vgsPlayer.poster(poster);
-  else vgsPlayer.poster("https://www.appcreator24.com/srv/imgs/gen/2458024_ico.png?v=9");
+  else vgsPlayer.poster("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQEIy7omsaCVOc64lhEzGfTOIKNhK00ZqkGNsZJ8I1K_P0C25QyNJAZzpdaxFsiz5Wji9sDH0yg9NI4bAonJShfe7lKn8aLxlRfDFNaBJ5lAyPosXp4-iWDmHAxBNBKtkiQ6i1C1laA08pWk3MYwF_KeRmWrWG6fWfhNsLdgSz1Rzl-an3MzZQm-aEDmA/s220/unnamed.png");
 
   // play seem to trigger to fast before Youtube is ready
 
